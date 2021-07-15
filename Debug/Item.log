@@ -1,0 +1,4 @@
+﻿  Item.cpp
+C:\Users\Acer\Desktop\programming\C++\Item\Item.cpp(27,45): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Acer\Desktop\programming\C++\Item\Item.cpp(28,41): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+  Item.vcxproj -> C:\Users\Acer\Desktop\programming\C++\Item\Debug\Item.exe
